@@ -1,0 +1,25 @@
+{
+  "name": "hyperautomation",
+  "version": "1.0.0",
+  "description": "Hyper Automation SDK",
+  "main": "app.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cnshsliu/hyperautomation.git"
+  },
+  "keywords": [
+    "hyper",
+    "automation",
+    "workflow",
+    "hyperflow"
+  ],
+  "author": "lucaskhliu <liukehong@gmail.com> (https://www.metatocome.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnshsliu/hyperautomation/issues"
+  },
+  "homepage": "https://github.com/cnshsliu/hyperautomation#readme"
+}
